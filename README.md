@@ -40,7 +40,8 @@ Esse 4Noobs tem o intuito de ajudar quem quer aprender Go ou simplesmente aprend
 
 ### Resumos
 
-- [Cheat Sheet](./modules/cheat-sheet.md#cheat-sheet)
+- [Golang Cheat Sheet](./modules/golang-cheat-sheet.md#golang-cheat-sheet)
+- [Regexp Cheat Sheet](./modules/regexp-cheat-sheet.md#regexp-cheat-sheet)
 - Boas Práticas (EM BREVE!)
 
 ### Conteudos Detalhados

@@ -1,6 +1,6 @@
 [← Pagina Inicial](../README.md#go4noobs)
 
-# Cheat sheet
+# Golang Cheat sheet
 
 # Índice
 
